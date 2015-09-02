@@ -1,0 +1,30 @@
+{
+  "name": "laravel-elixir-ng-annotate",
+  "version": "1.0.1",
+  "description": "Laravel Elixir Angular Annotate Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "clear",
+    "del",
+    "gulp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vivify-Ideas/laravel-elixir-ng-annotate"
+  },
+  "author": "VivifyIdeas",
+  "license": "MIT",
+  "homepage": "https://github.com/Vivify-Ideas/laravel-elixir-ng-annotate",
+  "bugs": {
+    "url": "https://github.com/Vivify-Ideas/laravel-elixir-ng-annotate/issues"
+  },
+  "dependencies": {
+    "del": "^2.0.0",
+    "gulp": "^3.8.8"
+  }
+}
